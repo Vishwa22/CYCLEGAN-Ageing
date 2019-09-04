@@ -13,9 +13,9 @@ Check out IPython Notebook [1_cyclegan_final_1.ipynb](https://github.com/Vishwa2
 <image src='https://github.com/Vishwa22/CYCLEGAN-Ageing/blob/master/cyclegantraining.PNG?raw=true' width='600'>
   
 - Inference: Young to Old
-<image src='https://github.com/vish-astro-22/FinalAssignment-CYCLEGAN-Ageing/blob/master/young2old_examples.PNG?raw=true' width='200'>
+<image src='https://github.com/Vishwa22/CYCLEGAN-Ageing/blob/master/young2old_examples.PNG?raw=true' width='200'>
   
 - Inference: Old to Young
-<image src='https://github.com/vish-astro-22/FinalAssignment-CYCLEGAN-Ageing/blob/master/old2young_examples.PNG?raw=true' width='200'>
+<image src='https://github.com/Vishwa22/CYCLEGAN-Ageing/blob/master/old2young_examples.PNG?raw=true' width='200'>
   
-<image src='https://github.com/vish-astro-22/FinalAssignment-CYCLEGAN-Ageing/blob/master/old2young_example2.PNG?raw=true' width='200'>
+<image src='https://github.com/Vishwa22/CYCLEGAN-Ageing/blob/master/old2young_example2.PNG?raw=true' width='200'>
